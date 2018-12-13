@@ -1,6 +1,6 @@
 body {
 	color:#8aa1f9;
-	background:url('C:/web/klari/bgd.jpg');
+	background:url('../bgd.jpg');
     margin: 0;
     padding: 0;
 }
@@ -10,7 +10,7 @@ body {
 	width: 90%;
 	padding:10px;
 	margin: 100px auto;
-	background:url('C:/web/klari/bgd.jpg');
+	background:url('../bgd.jpg');
 	
 }
 
