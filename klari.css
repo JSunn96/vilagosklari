@@ -1,6 +1,6 @@
 body {
 	color:#8aa1f9;
-	background:url('https://github.com/JSunn96/vilagosklari/tree/gh-pages/images/bgd.jpg');
+	background:url('https://github.com/JSunn96/vilagosklari/blob/gh-pages/images/bgd.jpg?raw=true');
     margin: 0;
     padding: 0;
 }
@@ -10,7 +10,7 @@ body {
 	width: 90%;
 	padding:10px;
 	margin: 100px auto;
-	background:url('https://github.com/JSunn96/vilagosklari/tree/gh-pages/images/bgd.jpg');
+	background:url('https://github.com/JSunn96/vilagosklari/blob/gh-pages/images/bgd.jpg?raw=true');
 	
 }
 
